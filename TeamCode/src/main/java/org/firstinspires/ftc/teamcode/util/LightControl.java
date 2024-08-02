@@ -19,6 +19,9 @@ public class LightControl {
                 case "BLUE":
                     pattern = RevBlinkinLedDriver.BlinkinPattern.BLUE;
                     break;
+                case "VIOLET":
+                    pattern = RevBlinkinLedDriver.BlinkinPattern.VIOLET;
+                    break;
                 case "YELLOW":
                     pattern = RevBlinkinLedDriver.BlinkinPattern.YELLOW;
                     break;
